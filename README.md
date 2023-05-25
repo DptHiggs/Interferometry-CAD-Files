@@ -2,7 +2,7 @@
 Repository containing all CAD files and simulation reports for GDBP Lightning Interferometry enclosure design
 
 
-All CAD files are stored in zip files <br>
+All CAD files are stored in CAD folder <br>
 LI designation denotes parts designed for this project <br>
 LIA designation denotes assemblies designed for this project.
 
